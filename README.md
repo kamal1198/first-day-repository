@@ -1,2 +1,2 @@
 # first-day-repository
-this is mt first repo
+This is mt first repo
